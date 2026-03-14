@@ -1,0 +1,10 @@
+numpy
+pandas
+os
+math
+scipy
+deap
+itertools
+matplotlib
+time
+openpyxl
